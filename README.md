@@ -16,10 +16,12 @@ The current citation for the paper is the following:
 
 ```
 @article{ptspc,
+  title={The probabilistic {Travelling Salesman Problem} with crowdsourcing},
   author={Santini, Alberto and Viana, Ana and Klimentova, Xenia and Pedroso, João Pedro},
-  title={The Probabilistic Travelling Salesman with Crowdsourcing},
-  year={2020},
-  journal={Preprint}
+  journal={{Computers \& Operations Research}},
+  volume={142},
+  doi={10.1016/j.cor.2022.105722},
+  year={2022}
 }
 ```
 

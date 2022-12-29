@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Santini"
+  first-names: "Alberto"
+- family-names: "Viana"
+  first-names: "Ana"
+- family-names: "Klimentova"
+  first-names: "Xenia"
+- family-names: "Pedroso"
+  first-names: "Joao Pedro"
+title: "PTSPC Instances"
+version: 1.0
+doi: 10.5281/zenodo.4031192
+date-released: 2020-09-15
+url: "https://github.com/alberto-santini/ptspc-instances"
+preferred-citation:
+  authors:
+  - family-names: "Santini"
+    first-names: "Alberto"
+  - family-names: "Viana"
+    first-names: "Ana"
+  - family-names: "Klimentova"
+    first-names: "Xenia"
+  - family-names: "Pedroso"
+    first-names: "Joao Pedro"
+  title: "The probabilistic Travelling Salesman Problem with crowdsourcing"
+  journal: "Computers & Operations Research"
+  volume: 142
+  year: 2022
+  doi: 10.1016/j.cor.2022.105722

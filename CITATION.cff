@@ -15,6 +15,7 @@ doi: 10.5281/zenodo.4031192
 date-released: 2020-09-15
 url: "https://github.com/alberto-santini/ptspc-instances"
 preferred-citation:
+  type: article
   authors:
   - family-names: "Santini"
     first-names: "Alberto"
